@@ -15,5 +15,5 @@
 |HackerRank|[Masum_Billa](https://www.hackerrank.com/Masum_Billa?hr_r=1)| 1 |
 |Kattis|[Masum Billa](https://open.kattis.com/users/masum-billa) | 1 |
 |CSES|[Masum_Billa_19](https://cses.fi/user/101718)| 0 |
-|LightOJ|[Masum_Billa_19](https://lightoj.com/user/niloy_das_19)| 7 |
-|Total||2070|
+|LightOJ|[Masum_Billa_19](https://lightoj.com/user/niloy_das_19)| 0 |
+|Total||1059|
