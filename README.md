@@ -1,20 +1,19 @@
 # Problem-solving-statistics
 | OJ | Username | Solve count|
 |:---: | :---:| :---:|
-|Codeforces|[Niloy_Das_19](https://codeforces.com/profile/Niloy_Das_19)| 632 |
-|Leetcode|[Niloy_Das_19](https://leetcode.com/Niloy_Das_19/)| 380 |
-|Vjudge|[Niloy_Das](https://vjudge.net/user/Niloy_Das)|326|
-|Beecrowd|[Niloy_Das_19](https://www.beecrowd.com.br/judge/en/profile/419525)| 290  |
-|Codechef|[niloy01](https://www.codechef.com/users/niloy01)| 130 |
-|HackerRank|[Niloy_Das_19](https://www.hackerrank.com/Niloy_Das_19)| 80 |
-|Atcoder|[Niloy_Das_19](https://atcoder.jp/users/Niloy_Das_19)| 76 |
-|UVa|[Niloy_Das_19](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)| 63 |
-|GeeksforGeeks|[niloydas19](https://auth.geeksforgeeks.org/user/niloydas19/profile)| 40|
-|HackerEarth|[Niloy_Das_19](https://www.hackerearth.com/@Niloy_Das_19)| 19|
-|Spoj|[niloy01](https://www.spoj.com/myaccount/)| 9 |
-|CSES|[Niloy_Das_19](https://cses.fi/user/44408)| 8 |
+|Codeforces|[Masum_Billa_19](https://codeforces.com/profile/Masum_Billa_19)| 554 |
+|Vjudge|[Masum_Billa](https://vjudge.net/user/Masum_Billa)| 298 |
+|Beecrowd|[MASUM_BILLA](https://www.beecrowd.com.br/judge/en/profile/421505)| 105  |
+|Codechef|[masumbilla_19](https://www.codechef.com/users/masumbilla_19)| 38 |
+|Leetcode|[Masum_Billa](https://leetcode.com/Masum_Billa/)| 26 |
+|Atcoder|[Masum_Billa_19](https://atcoder.jp/users/Masum_Billa_19)| 10 |
+|UVa|[Masum_Billa](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15)| 9 |
+|Spoj|[masum_billa](https://www.spoj.com/myaccount/)| 6 |
+|HackerEarth|[Masum_Billa](https://www.hackerearth.com/@masum38)| 4 |
+|Toph|[Masum_Billa](https://toph.co/u/Masum_Billa)| 4 |
+|GeeksforGeeks|[MasumBilla19](https://auth.geeksforgeeks.org/user/masumbilla190101/profile)| 3 |
+|HackerRank|[Masum_Billa](https://www.hackerrank.com/Masum_Billa?hr_r=1)| 1 |
+|Kattis|[Masum Billa](https://open.kattis.com/users/masum-billa) | 1 |
+|CSES|[Masum_Billa_19](https://cses.fi/user/101718)| 0 |
 |LightOJ|[Niloy_Das_19](https://lightoj.com/user/niloy_das_19)| 7 |
-|Kattis|[niloy-das-19](https://open.kattis.com/users/niloy-das-19) | 7 |
-|Timus|[Niloy_Das_19](https://acm.timus.ru/author.aspx?id=335184)|2|
-|Toph|[NiloyDas19](https://toph.co/u/NiloyDas19)| 1|
 |Total||2070|
